@@ -4,7 +4,11 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="/LearnJDBC/WebContent/WEB-INF/lib/mysql-connector-java-8.0.20.jar"/>
 	<classpathentry kind="lib" path="lib/mybatis-3.4.6.jar"/>
-	<classpathentry kind="lib" path="lib/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="lib" path="lib/c3p0-0.9.5.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/c3p0-0.9.5.2.jar" sourcepath="F:/OpenSource/c3p0-0.9.5.2.bin/c3p0-0.9.5.2/src/c3p0-0.9.5.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/c3p0-oracle-thin-extras-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/mchange-commons-java-0.2.11.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
